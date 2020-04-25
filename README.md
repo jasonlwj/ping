@@ -1,3 +1,3 @@
 # ping
 
-it kinda works
+Pong except it's on the Raspberry Pi.
